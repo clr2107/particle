@@ -5,13 +5,13 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Catherine Rice
+user_description: I am a web developer with a background in publishing and journalism. I enjoy building maintainable, scalable web applications using Ruby on Rails, and learning new skills and technologies is what drives me.
+user_title: Web Developer
+email: clr2107@gmail.com
+twitter_username: clr2107
+github_username:  clr2107
+gplus_username:  clr2107
 
 # Google-analytics
 google-analytics:
